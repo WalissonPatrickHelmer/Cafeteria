@@ -40,9 +40,9 @@ O projeto foi criado com foco em prática de desenvolvimento Frontend moderno, o
 
 ---
 
-## 🧱 Estrutura do Projeto
+## 📂 Estrutura do Projeto
 
-
+```
 Cafeteria-Aconchego/
 │
 ├── index.html
@@ -55,8 +55,7 @@ Cafeteria-Aconchego/
 ├── torta-de-limao.jpg
 ├── fachada.jpg
 └── preview.png
-
-
+```
 ---
 
 ## ⚙️ Como Executar o Projeto
